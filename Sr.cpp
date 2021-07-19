@@ -1,3 +1,7 @@
+// squareroot using binary search upto p precision 
+// Nishtha Gupta 
+// 1910990157
+
 #include <iostream>
 using namespace std;
 
